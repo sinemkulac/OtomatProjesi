@@ -7,7 +7,7 @@ Bu paket, kod ile aynı dizin içerisinde bulunacaktır.
 ----------
 170201034-170201048.rar - En Az Sayıda Bozuk Para Verme Projesi'nin kaynak kodu
 readme.txt - Bu dosya.
-170201034-170201048.txt - Kodun txt formatına aktarılmış hali
+kaynak_kod.txt - Kodun txt formatına aktarılmış hali
 170201034-170201048rapor.docx - Proje hakkındaki rapor
 ----------
 
