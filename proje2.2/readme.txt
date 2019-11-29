@@ -1,41 +1,40 @@
-En Az Sayıda Bozuk Para Verme Projesi
-Bu readme.txt dosyası, En Az Sayıda Bozuk Para Verme Projesi koduna aittir.
-Bu paket, kod ile aynı dizin içerisinde bulunacaktır.
+En Az SayÄ±da Bozuk Para Verme Projesi
+Bu readme.txt dosyasÄ±, En Az SayÄ±da Bozuk Para Verme Projesi koduna aittir.
+Bu paket, kod ile aynÄ± dizin iÃ§erisinde bulunacaktÄ±r.
 
 
-1-PAKETİN İÇERİĞİ:
+1-PAKETÄ°N Ä°Ã‡ERÄ°ÄÄ°:
 ----------
-170201034-170201048.rar - En Az Sayıda Bozuk Para Verme Projesi'nin kaynak kodu
+otomat.rar - En Az SayÄ±da Bozuk Para Verme Projesi'nin kaynak kodu
 readme.txt - Bu dosya.
-170201034-170201048.txt - Kodun txt formatına aktarılmış hali
-170201034-170201048rapor.docx - Proje hakkındaki rapor
+kaynak_kod.txt - Kodun txt formatÄ±na aktarÄ±lmÄ±ÅŸ hali
+170201034-170201048rapor.docx - Proje hakkÄ±ndaki rapor
 ----------
 
-2-SİSTEM GEREKSİNİMLERİ:
+2-SÄ°STEM GEREKSÄ°NÄ°MLERÄ°:
 -------------------
 Virtual Box
-Debian Dağıtımı
+Debian DaÄŸÄ±tÄ±mÄ±
 -------------------
 
 3-KURULUM:
 -------------------
-Paket içeriğini yukarıda görebilirsiniz.
+Paket iÃ§eriÄŸini yukarÄ±da gÃ¶rebilirsiniz.
 
-Bu kod bir Windows ve bir de Mac kurulu makinede çalıştırıldı.
-- Anıl'ın Debian yüklü VirtualBox'ında.
-- Sinem'in Debian yüklü VirtualBox'ında.
+Bu kod bir Windows ve bir de Mac kurulu makinede Ã§alÄ±ÅŸtÄ±rÄ±ldÄ±.
+- Sinem'in Debian yÃ¼klÃ¼ VirtualBox'Ä±nda.
 
-Kodu Debian'ın içine çıkarttıktan sonra Eclipse ile açın. 
+Kodu Debian'Ä±n iÃ§ine Ã§Ä±karttÄ±ktan sonra Eclipse ile aÃ§Ä±n. 
 
 
 4- PARAMETRELER
 --------------------
-Kodun çalışması için başlangıçta herhangi bir parametre gerekmiyor.
+Kodun Ã§alÄ±ÅŸmasÄ± iÃ§in baÅŸlangÄ±Ã§ta herhangi bir parametre gerekmiyor.
 --------------------
 
 5- PROGRAMIN KULLANIMI
 --------------------
-Program, öncelikle sizden para miktarı seçmenizi isteyecektir. Ardından seçtiğiniz paraya göre ürün  girmenizi isteyecektir
+Program, Ã¶ncelikle sizden para miktarÄ± seÃ§menizi isteyecektir. ArdÄ±ndan seÃ§tiÄŸiniz paraya gÃ¶re Ã¼rÃ¼n  girmenizi isteyecektir
 
-En sonda para üstünü ekrana bastıracaktır.
+En sonda para Ã¼stÃ¼nÃ¼ ekrana bastÄ±racaktÄ±r.
 ---------------------
