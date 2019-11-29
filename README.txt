@@ -5,7 +5,7 @@ Bu paket, kod ile aynı dizin içerisinde bulunacaktır.
 
 1-PAKETİN İÇERİĞİ:
 ----------
-170201034-170201048.rar - En Az Sayıda Bozuk Para Verme Projesi'nin kaynak kodu
+otomat.rar - En Az Sayıda Bozuk Para Verme Projesi'nin kaynak kodu
 readme.txt - Bu dosya.
 kaynak_kod.txt - Kodun txt formatına aktarılmış hali
 170201034-170201048rapor.docx - Proje hakkındaki rapor
