@@ -324,12 +324,12 @@ int main(void) {
 #define D6                               GPIO_PIN_6
 #define D7                               GPIO_PIN_7
 
-void Lcd_Komut(unsigned char);  //Lcd ye komut göndermeye yarar
-void Lcd_Temizle(void);                 //Lcd ekranını temizler
-void Lcd_Puts(char*);                   //String ifade yazdırır
-void Lcd_Goto(char,char);               //Kursorü istenilen yere gönderir
-void Lcd_init(void);                    //Lcd başlangıç ayarları
-void Lcd_Putch(unsigned char);  //Tek karekter yazdırır
+void Lcd_Komut(unsigned char);  //Lcd ye komut gÃ¶ndermeye yarar
+void Lcd_Temizle(void);                 //Lcd ekranÃ½nÃ½ temizler
+void Lcd_Puts(char*);                   //String ifade yazdÃ½rÃ½r
+void Lcd_Goto(char,char);               //KursorÃ¼ istenilen yere gÃ¶nderir
+void Lcd_init(void);                    //Lcd baÃ¾langÃ½Ã§ ayarlarÃ½
+void Lcd_Putch(unsigned char);  //Tek karekter yazdÃ½rÃ½r
 
 #endif /* LCD_H_ */
 ------------button.c-----------
